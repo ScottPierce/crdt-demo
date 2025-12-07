@@ -1,0 +1,13 @@
+{
+  "name": "automerge-demo",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "bun src/index.ts"
+  },
+  "dependencies": {
+    "@automerge/automerge": "^2.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "latest"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "yjs-demo",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "bun src/index.ts"
+  },
+  "dependencies": {
+    "yjs": "^13.6.10"
+  },
+  "devDependencies": {
+    "@types/node": "latest"
+  }
+}

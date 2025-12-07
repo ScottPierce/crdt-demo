@@ -1,0 +1,16 @@
+{
+  "name": "crdt-demo",
+  "version": "1.0.0",
+  "workspaces": [
+    "demos/*"
+  ],
+  "scripts": {
+    "yjs": "bun run --filter yjs-demo start",
+    "am": "bun run --filter automerge-demo start",
+    "all": "bun run yjs && bun run am"
+  },
+  "devDependencies": {
+    "bun-types": "latest",
+    "typescript": "latest"
+  }
+}
