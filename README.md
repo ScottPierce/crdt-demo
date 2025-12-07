@@ -1,5 +1,7 @@
 # CRDT Demo
 
+*This repository was AI generated, to learn about CRDT libraries, how they work, and the differences between Yjs and Automerge.
+
 This repo contains two side-by-side, script-based demos that illustrate collaborative editing and offline sync using CRDT libraries:
 
 - **Yjs demo** (`/demos/yjs-demo`): update-based CRDT with built-in undo/redo.
